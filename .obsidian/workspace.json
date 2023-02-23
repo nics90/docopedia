@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golang/Practice Session.md",
+                "file": "kubernetes/Kind, Keycloak — Securing Kubernetes api server with OIDC  by Charles-Edouard Brétéché  Medium.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "golang/Practice Session.md",
+                "file": "kubernetes/Kind, Keycloak — Securing Kubernetes api server with OIDC  by Charles-Edouard Brétéché  Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "golang/Practice Session.md",
+                "file": "kubernetes/Kind, Keycloak — Securing Kubernetes api server with OIDC  by Charles-Edouard Brétéché  Medium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "golang/Practice Session.md"
+                "file": "kubernetes/Kind, Keycloak — Securing Kubernetes api server with OIDC  by Charles-Edouard Brétéché  Medium.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc71bbf7491c2f7f",
+  "active": "f74aa765e6ae5676",
   "lastOpenFiles": [
-    "kubernetes/Important Commands.md",
+    "kubeovn/Getting Started - Kube-OVN Documentation.md",
     "golang/Practice Session.md",
+    "kubernetes/Important Commands.md",
     "README.md"
   ]
 }
