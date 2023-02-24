@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/Kind, Keycloak — Securing Kubernetes api server with OIDC  by Charles-Edouard Brétéché  Medium.md",
+                "file": "kubernetes/Persistent volumes (PV)and Claims (PVC) in Kubernetes  by Kubernetes Advocate  AVM Consulting Blog  Medium.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernetes/Kind, Keycloak — Securing Kubernetes api server with OIDC  by Charles-Edouard Brétéché  Medium.md",
+                "file": "kubernetes/Persistent volumes (PV)and Claims (PVC) in Kubernetes  by Kubernetes Advocate  AVM Consulting Blog  Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernetes/Kind, Keycloak — Securing Kubernetes api server with OIDC  by Charles-Edouard Brétéché  Medium.md",
+                "file": "kubernetes/Persistent volumes (PV)and Claims (PVC) in Kubernetes  by Kubernetes Advocate  AVM Consulting Blog  Medium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernetes/Kind, Keycloak — Securing Kubernetes api server with OIDC  by Charles-Edouard Brétéché  Medium.md"
+                "file": "kubernetes/Persistent volumes (PV)and Claims (PVC) in Kubernetes  by Kubernetes Advocate  AVM Consulting Blog  Medium.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "f74aa765e6ae5676",
   "lastOpenFiles": [
-    "kubeovn/Getting Started - Kube-OVN Documentation.md",
     "golang/Practice Session.md",
+    "kubeovn/Getting Started - Kube-OVN Documentation.md",
+    "kubernetes/Kind, Keycloak — Securing Kubernetes api server with OIDC  by Charles-Edouard Brétéché  Medium.md",
     "kubernetes/Important Commands.md",
     "README.md"
   ]
