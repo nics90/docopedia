@@ -1,5 +1,4 @@
 
-
 ## Preparation
 
 Kube-OVN is a network component that conforms to the CNI specification, and its operation needs to rely on the Kubernetes environment and the corresponding kernel network module. The following is the tested operating system and software version, environment configuration and required open port information.

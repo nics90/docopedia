@@ -97,14 +97,122 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golang/Go Practice Session 2.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be741407c119814b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "networking/Linux Bridges.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e084166e7da63ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "networking/VLAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f565be189712d4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang/Golang Struct.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ac8141d7822775f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang/Golang Pointers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed156a874ba9e729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang/Golang Defer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "470dde062c6d9ef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang/Golang Panic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b312e055d575abd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang/Golang Pointers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38ba95a20aed4c49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang/Golang Defer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1983be87ad3913ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -170,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "golang/Go Practice Session 2.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "golang/Go Practice Session 2.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "golang/Go Practice Session 2.md"
+                "file": "README.md"
               }
             }
           }
@@ -231,19 +339,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc71bbf7491c2f7f",
+  "active": "1983be87ad3913ef",
   "lastOpenFiles": [
+    "networking/VLAN.md",
+    "networking/Linux Bridges.md",
+    "Linux Bridges 1.md",
+    "networking/Keycloak.md",
+    "networking/Docker Networking.md",
+    "Docker Networking 1.md",
+    "golang/Golang Panic.md",
+    "golang/Golang Defer.md",
+    "golang/Golang Pointers.md",
+    "golang/Golang Struct.md",
+    "golang/Golang Functions.md",
+    "golang/Golang Slices.md",
     "golang/Golang Map.md",
     "golang/Golang Array.md",
-    "golang/Golang Struct.md",
-    "golang/Golang Slices.md",
-    "golang/Golang Functions.md",
-    "golang/Go Practice Session 2.md",
     "README.md",
+    "networking",
+    "kubeovn/Getting Started - Kube-OVN Documentation.md",
+    "golang/Go Practice Session 2.md",
     "golang/Practice Session.md",
     "Untitled 1.md",
     "kubernetes/Persistent volumes (PV)and Claims (PVC) in Kubernetes  by Kubernetes Advocate  AVM Consulting Blog  Medium.md",
-    "kubeovn/Getting Started - Kube-OVN Documentation.md",
     "kubernetes/Kind, Keycloak — Securing Kubernetes api server with OIDC  by Charles-Edouard Brétéché  Medium.md",
     "kubernetes/Important Commands.md"
   ]

@@ -1,3 +1,3 @@
 # docopedia
 
-Let's see.
+Collection of interesting articles.
