@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f74aa765e6ae5676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "golang/Practice Session.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7956fa858c2c1a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "golang/Practice Session.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "db7b0e739e72d3ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golang/Go Practice Session 2.md",
+                "file": "golang/Golang Defer.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,127 +68,66 @@
             }
           },
           {
-            "id": "30cffbb42107d2ac",
+            "id": "ba2007d7cfbe4436",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "kubernetes/Kubernetes Node Uptime.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "be741407c119814b",
+            "id": "97f642abbf1b23ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "networking/Linux Bridges.md",
+                "file": "networking/OVS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e084166e7da63ff8",
+            "id": "3295aff2f259adad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "networking/VLAN.md",
+                "file": "kubernetes/Kubernetes Node Uptime.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0f565be189712d4d",
+            "id": "fe61c80e04232381",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golang/Golang Struct.md",
+                "file": "kubernetes/Kubernetes Node Uptime.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ac8141d7822775f",
+            "id": "f0c64ed3f9362f1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golang/Golang Pointers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed156a874ba9e729",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "golang/Golang Defer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "470dde062c6d9ef4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "golang/Golang Panic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b312e055d575abd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "golang/Golang Pointers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38ba95a20aed4c49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "golang/Golang Defer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1983be87ad3913ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "kubernetes/Kubernetes CPU and Memory Usage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,6 +172,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ddfc763a52486e22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -278,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "golang/Golang Defer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "golang/Golang Defer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "golang/Golang Defer.md"
               }
             }
           }
@@ -339,30 +262,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1983be87ad3913ef",
+  "active": "db7b0e739e72d3ce",
   "lastOpenFiles": [
+    "2023-05-25.md",
+    "networking/OVS.md",
+    "kubernetes/Kubernetes CPU and Memory Usage.md",
+    "FAAS.md",
+    "Data Structure.md",
+    "Cybersecurity.md",
+    "Audacity.md",
+    "kubernetes/Kubernetes Cluster Uptime.md",
+    "kubernetes/Kubernetes Node Uptime.md",
+    "OS Releases.md",
+    "kubeovn/OVN.md",
+    "golang/Golang Array.md",
+    "golang/Golang Pointers.md",
+    "golang/Golang Panic.md",
+    "golang/Golang Defer.md",
+    "golang/Practice Session.md",
+    "golang/Golang Struct.md",
+    "golang/Golang Slices.md",
+    "golang/Golang Map.md",
+    "golang/Go Practice Session 2.md",
+    "README.md",
+    "golang/Golang Functions.md",
     "networking/VLAN.md",
     "networking/Linux Bridges.md",
     "Linux Bridges 1.md",
     "networking/Keycloak.md",
-    "networking/Docker Networking.md",
-    "Docker Networking 1.md",
-    "golang/Golang Panic.md",
-    "golang/Golang Defer.md",
-    "golang/Golang Pointers.md",
-    "golang/Golang Struct.md",
-    "golang/Golang Functions.md",
-    "golang/Golang Slices.md",
-    "golang/Golang Map.md",
-    "golang/Golang Array.md",
-    "README.md",
-    "networking",
-    "kubeovn/Getting Started - Kube-OVN Documentation.md",
-    "golang/Go Practice Session 2.md",
-    "golang/Practice Session.md",
-    "Untitled 1.md",
-    "kubernetes/Persistent volumes (PV)and Claims (PVC) in Kubernetes  by Kubernetes Advocate  AVM Consulting Blog  Medium.md",
-    "kubernetes/Kind, Keycloak — Securing Kubernetes api server with OIDC  by Charles-Edouard Brétéché  Medium.md",
-    "kubernetes/Important Commands.md"
+    "networking"
   ]
 }
